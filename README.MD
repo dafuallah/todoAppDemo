@@ -13,9 +13,15 @@
 ## Getting Started
 This is a sample of a block of code
 
-```
+* Initalizing Git 
+```sh
 git init
 ```
+
+* Initalizing Git 
+    ```sh
+    git init
+    ```
 
 ### Dev is awesome
 
